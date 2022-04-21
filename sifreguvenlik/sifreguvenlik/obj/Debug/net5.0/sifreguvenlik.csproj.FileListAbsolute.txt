@@ -1,0 +1,16 @@
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\bin\Debug\net5.0\sifreguvenlik.exe
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\bin\Debug\net5.0\sifreguvenlik.deps.json
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\bin\Debug\net5.0\sifreguvenlik.runtimeconfig.json
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\bin\Debug\net5.0\sifreguvenlik.runtimeconfig.dev.json
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\bin\Debug\net5.0\sifreguvenlik.dll
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\bin\Debug\net5.0\ref\sifreguvenlik.dll
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\bin\Debug\net5.0\sifreguvenlik.pdb
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\obj\Debug\net5.0\sifreguvenlik.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\obj\Debug\net5.0\sifreguvenlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\obj\Debug\net5.0\sifreguvenlik.AssemblyInfoInputs.cache
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\obj\Debug\net5.0\sifreguvenlik.AssemblyInfo.cs
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\obj\Debug\net5.0\sifreguvenlik.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\obj\Debug\net5.0\sifreguvenlik.dll
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\obj\Debug\net5.0\ref\sifreguvenlik.dll
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\obj\Debug\net5.0\sifreguvenlik.pdb
+C:\Users\selin\Desktop\sifreguvenlik\sifreguvenlik\obj\Debug\net5.0\sifreguvenlik.genruntimeconfig.cache
